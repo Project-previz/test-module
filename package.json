@@ -1,0 +1,15 @@
+{
+    "name": "previz-test-module",
+    "version": "1.0.0",
+    "description": "A modular Nuxt.js package",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["nuxt", "modular", "vue"],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "nuxt": "^3.0.0"
+    }
+  }
